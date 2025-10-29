@@ -156,7 +156,7 @@ for k_growth,name in zip(params['growth_rates'],params['scenarios']):
     
     
     iteration = 1
-    max_iterations = 2
+    max_iterations = 101
     results = []
     
     
